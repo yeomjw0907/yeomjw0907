@@ -1,19 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=0B0B0B&fontColor=D4AF37&text=Premium%20Business%20Architects&fontSize=45&animation=fadeIn&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=0B0B0B&fontColor=D4AF37&text=Premium%20Business%20Architects&fontSize=45&animation=fadeIn&fontAlignY=40" width="100%" alt="Header" />
 
   <br />
 
   <h1 align="center">Onecation: Business ALL-IN-ONE</h1>
   <p align="center">
-    <strong>기획, 디자인, 개발, 마케팅의 파편화된 경험을 종결합니다.</strong><br />
+    <strong>"기획, 디자인, 개발, 마케팅의 파편화된 경험을 종결합니다."</strong> <br />
     비전 수립부터 폭발적 성장까지, 당신을 위한 단 하나의 완벽한 솔루션.
   </p>
 
   <a href="https://github.com/yeomjw0907/onecation_homepage">
-    <img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-000000?style=for-the-badge&logo=rocket&logoColor=white" />
+    <img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-000000?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:yeomjw0907@onecation.co.kr">
-    <img src="https://img.shields.io/badge/START_PROJECT-D4AF37?style=for-the-badge&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/START_PROJECT-D4AF37?style=for-the-badge&logo=gmail&logoColor=black" alt="Contact" />
   </a>
 
   <br /><br />
@@ -21,52 +21,48 @@
 
 ---
 
-### 📦 The Architecture (Modular Bento Grid)
-원케이션의 3단계 핵심 프로세스를 현대적인 그리드로 구성했습니다.
+### 📦 The Architecture (Agency Bento Grid)
+원케이션의 시스템화된 비즈니스 프로세스입니다.
 
-| 📐 **01. Foundation** | 🎨 **02. Creation** |
-| :--- | :--- |
-| **"비즈니스의 본질 정의"** | **"시각적 언어로의 번역"** |
-| 데이터 기반 전략 수립으로 불확실성을 제거합니다. | UX를 극대화하는 디자인과 엔지니어링의 결합. |
-| `Business Planning` `Gov. Strategy` | `Brand Experience` `Web Engineering` |
-
-<br />
-
-| 🚀 **03. Acceleration** | 🔍 **Latest Insights** |
-| :--- | :--- |
-| **"지속 가능한 성장 견인"** | **"럭셔리 테크 디자인 가이드"** |
-| 퍼포먼스 마케팅을 통해 플랫폼을 확장시킵니다. | Web 3.0와 인터랙션 디자인의 미래를 연구합니다. |
-| `SEO & Data` `Performance Marketing` | `Tech Trend` `Interaction Design` |
-
----
-
-### 🛠️ Technology Ecosystem (SVG Badges)
-공식 로고 데이터를 사용하여 이미지 깨짐을 원천 차단했습니다.
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=google-analytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/SEO-Data-D4AF37?style=flat-square" />
-  <img src="https://img.shields.io/badge/Business_Strategy-D4AF37?style=flat-square" />
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📐 01. Foundation</h3>
+      <p>비즈니스의 본질을 정의하고 시장을 관통하는 전략을 수립합니다.</p>
+      <code>Business Planning</code> <code>Gov. Strategy</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 02. Creation</h3>
+      <p>사용자 경험(UX)을 극대화하는 심미적 디자인과 엔지니어링의 결합.</p>
+      <code>Brand Experience</code> <code>Web Engineering</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 03. Acceleration</h3>
+      <p>퍼포먼스 마케팅과 데이터 분석을 통해 지속 가능한 성장을 견인합니다.</p>
+      <code>SEO & Data</code> <code>Performance Marketing</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔍 Premium Insights</h3>
+      <p>Web 3.0와 럭셔리 브랜드의 결합 및 몰입형 인터랙션 디자인 연구.</p>
+      <code>Branding</code> <code>Strategy</code> <code>Tech Trend</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📈 Global Activity (Real-time API)
+### 📈 Global Connectivity & Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeomjw0907&show_icons=true&theme=tokyonight&bg_color=0B0B0B&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeomjw0907&layout=compact&theme=tokyonight&bg_color=0B0B0B&title_color=D4AF37&text_color=FFFFFF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yeomjw0907&show_icons=true&bg_color=0B0B0B&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeomjw0907&layout=compact&bg_color=0B0B0B&title_color=D4AF37&text_color=FFFFFF&border_color=D4AF37" width="48%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yeomjw0907/yeomjw0907/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/yeomjw0907/yeomjw0907/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
 </div>
 
 ---
@@ -74,6 +70,6 @@
 <div align="right">
   <p><strong>주식회사 98점7도 (98.7 degrees Co., Ltd.)</strong></p>
   <p>Premium Business Architects</p>
-  <p>송도 애니오션빌딩 11-12층</p>
+  <p>인천광역시 연수구 송도2동 인천타워대로 99 애니오션빌딩</p>
   <a href="https://onecation.co.kr"><strong>Official Website →</strong></a>
 </div>
